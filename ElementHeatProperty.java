@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementHeatProperty.java
  * Description:   a class for heat properties of an element
