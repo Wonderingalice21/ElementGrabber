@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          PropertyTextPane.java
  * Description:   property panel
