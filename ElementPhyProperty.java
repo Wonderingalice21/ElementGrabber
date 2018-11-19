@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementPhyProperty.java
  * Description:   a class for physical properties of an element
