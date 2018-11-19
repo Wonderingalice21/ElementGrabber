@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          CElement.java
  * Description:   a class for an element
