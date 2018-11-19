@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementFinder.java
  * Description:   main function
