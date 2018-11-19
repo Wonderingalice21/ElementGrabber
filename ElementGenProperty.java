@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementGenProperty.java
  * Description:   a class for general properties of an element
