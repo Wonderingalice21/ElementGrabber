@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementInfo.java
  * Description:   a class helps to retrieve properties of an element from
