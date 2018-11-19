@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementUI.java
  * Description:   user interface
