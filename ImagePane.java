@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ImagePane.java
  * Description:   image panel
