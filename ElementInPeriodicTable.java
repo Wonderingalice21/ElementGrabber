@@ -1,5 +1,3 @@
-package prj5;
-
 /*
  * File:          ElementInPeriodicTable.java
  * Description:   a class for periodic-table-related properties of an element
